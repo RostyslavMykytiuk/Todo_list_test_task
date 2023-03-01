@@ -1,0 +1,28 @@
+.field_invalid{
+    border:1px solid red;
+}
+.form_table td{
+    padding-right:50px;
+}
+.form_table input{
+    width:250px;
+}
+.popups_container{
+    position: absolute;
+    top:0;
+    bottom:0;
+    right:0;
+    left:0;
+    background-color:rgba(0,0,0,0.5);
+    padding-top: 15%;
+}
+.popups_body{
+    width:50%;
+    background-color:white;
+    margin:auto;
+    padding:10px 20px;
+}
+.popup_description{
+    display: block;
+    overflow-wrap: break-word;
+}
